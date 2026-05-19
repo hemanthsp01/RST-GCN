@@ -288,7 +288,7 @@ If you use this work, please cite:
 ```bibtex
 @inproceedings{rst-gcn-cikm2025,
   title     = {When Humans Write and LLMs Rewrite: Detecting AI-Paraphrased Text through Rhetorical Structure Graphs},
-  author    = {Agrahari, Shifali and Simhadri, Hemanth Prakash and Singh, Sanasam Ranbir},
+  author    = {Agrahari Shifali and Simhadri Hemanth Prakash and Sanasam Ranbir Singh},
   booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
   year      = {2026},
   publisher = {ACM},
