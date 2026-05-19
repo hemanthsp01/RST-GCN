@@ -1,14 +1,15 @@
 # RST-GCN: When Humans Write and LLMs Rewrite
 ### Detecting AI-Paraphrased Text through Rhetorical Structure Graphs
 
-[![CIKM 2025](https://img.shields.io/badge/CIKM-2025-blue)](https://www.cikm2025.org/)
+[![CIKM 2026](https://img.shields.io/badge/CIKM-2026-blue)](https://www.cikm2026.org/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-green)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 > **Paper:** *When Humans Write and LLMs Rewrite: Detecting AI-Paraphrased Text through Rhetorical Structure Graphs*
-> **Authors:** Hemanth Prakash Simhadri, Shifali Agrahari
-> Accepted at **34th ACM International Conference on Information and Knowledge Management (CIKM 2025)**, Atlanta, GA, USA.
+> **Authors:** Shifali Agrahari, Hemanth Prakash Simhadri, Sanasam Ranbir Singh
+> Submitted to **35th ACM International Conference on Information and Knowledge Management (CIKM'26)**
+> Submission #2928 — Under Review
 
 ---
 
@@ -287,11 +288,11 @@ If you use this work, please cite:
 ```bibtex
 @inproceedings{rst-gcn-cikm2025,
   title     = {When Humans Write and LLMs Rewrite: Detecting AI-Paraphrased Text through Rhetorical Structure Graphs},
-  author    = {Simhadri, Hemanth Prakash and Agrahari, Shifali},
-  booktitle = {Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)},
-  year      = {2025},
-  address   = {Atlanta, GA, USA},
+  author    = {Agrahari, Shifali and Simhadri, Hemanth Prakash and Singh, Sanasam Ranbir},
+  booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
+  year      = {2026},
   publisher = {ACM},
+  note      = {Under Review},
   doi       = {TBD}
 }
 ```
